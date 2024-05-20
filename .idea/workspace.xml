@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3d1b9e-88ac-4663-817a-8341c3eb0b9e" name="Changes" comment="3">
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordsCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/func.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/changeValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +52,26 @@
     &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope.executor&quot;: &quot;Run&quot;,
     &quot;Application.WordsCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.changeValue.executor&quot;: &quot;Run&quot;,
     &quot;Application.func.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/setukumar/projects/JAVA-DSA/Java-DSA&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714278362694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3">
+      <option name="closed" value="true" />
+      <created>1715154872536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715154872538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
