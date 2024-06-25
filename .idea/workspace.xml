@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3d1b9e-88ac-4663-817a-8341c3eb0b9e" name="Changes" comment="3">
-      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/changeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnaChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armschecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Qthree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Qtwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questionone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDarrIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qfour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quesans.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,27 +61,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scope.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordsCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.changeValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.func.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/setukumar/projects/JAVA-DSA/Java-DSA&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Armschecker.executor": "Run",
+    "Application.Armstongnumber.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.Arr.executor": "Run",
+    "Application.Arraylist.executor": "Run",
+    "Application.Arrin.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CharCount.executor": "Run",
+    "Application.MArrList.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PrimeChecker.executor": "Run",
+    "Application.Qthree.executor": "Run",
+    "Application.Qtwo.executor": "Run",
+    "Application.Questionone.executor": "Run",
+    "Application.Scope.executor": "Run",
+    "Application.TwoDArr.executor": "Run",
+    "Application.TwoDarrIn.executor": "Run",
+    "Application.TwoDarrout.executor": "Run",
+    "Application.VarArgs.executor": "Run",
+    "Application.WordsCount.executor": "Run",
+    "Application.changeValue.executor": "Run",
+    "Application.func.executor": "Run",
+    "Application.maxelement.executor": "Run",
+    "Application.maxvalue.executor": "Run",
+    "Application.qfour.executor": "Run",
+    "Application.quesans.executor": "Run",
+    "Application.question.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/setukumar/projects/JAVA-DSA/Java-DSA",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -97,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715154872538</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3">
+      <option name="closed" value="true" />
+      <created>1716213579625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716213579625</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
